@@ -36,6 +36,7 @@
 8)把vsftpd和创建的用户、目录做关联
 	sudo vi /etc/vsftpd.conf
 	修改配置文件，不可匿名访问，write_enable=YES
+
 # 2. 字典 goldendict
 
 goldendict：一款翻译软件
