@@ -44,5 +44,13 @@ goldendict：一款翻译软件
 1. `sudo apt-get install goldendict`
 2. 设置：在 编辑->词典来源->程序，添加：
       html  有道	/home/roger/tools/trans/youdao_get.py %GDWORD%
-
 3. 将youdao_get.py脚本放在上述目录中（前提是已下载python及其需要的模块），此脚本可在 https://github.com/easeflyer/gd_plugin/tree/master/youdao中下载
+
+# 3. kolor paint 画图软件
+
+1. `sudo apt-get install  kolourpaint4 -y`
+
+# 4. dia 流程图软件
+
+1. `sudo apt-get install dia-common`
+2. 无法输入中文解决方法：右击框框->Input Method -> X输入法
