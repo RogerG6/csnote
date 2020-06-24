@@ -54,3 +54,10 @@ goldendict：一款翻译软件
 
 1. `sudo apt-get install dia-common`
 2. 无法输入中文解决方法：右击框框->Input Method -> X输入法
+
+# 5. 百度云盘
+
+1. 去百度云盘官网下载.deb包
+2. sudo dpkg -i baidunetdisk.deb (用dpkg安装的软件一般在/opt目录中)
+3. 去/usr/share/applications中将baidunetdisk.desktop复制到桌面
+
